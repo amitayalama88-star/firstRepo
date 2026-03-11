@@ -1,2 +1,3 @@
 This is a simple text file.
 this is the second line
+text from branch1
